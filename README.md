@@ -26,12 +26,8 @@ Una vez que hayas realizado la configuración y los pasos anteriores, podrás ac
 
 ## 🎯 Características
 
-<<<<<<< HEAD
 - Añadir tareas con una descripción y fecha de vencimiento.
 - Marcar tareas como completadas.
-=======
-- Añadir tareas con un título y una descripción.
->>>>>>> 933d0550258de98ac8be280c10d0cb0d6269cf81
 - Editar el contenido de las tareas existentes.
 - Eliminar tareas de la lista.
 
@@ -46,7 +42,6 @@ Una vez que hayas realizado la configuración y los pasos anteriores, podrás ac
 
 ## 📸 Capturas de pantalla
 
-<<<<<<< HEAD
 ### Página de Inicio (Home)
 
 ![Captura de pantalla 1](./Front-end/src/img/Home.png)
@@ -54,9 +49,6 @@ Una vez que hayas realizado la configuración y los pasos anteriores, podrás ac
 ### Página de Agregar Tarea
 
 ![Captura de pantalla 1](./Front-end/src/img/tarea.png)
-=======
-¡Agrega aquí algunas capturas de pantalla de tu aplicación para que los usuarios puedan ver cómo luce!
->>>>>>> 933d0550258de98ac8be280c10d0cb0d6269cf81
 
 ## 📄 Licencia
 
