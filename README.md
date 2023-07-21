@@ -26,8 +26,7 @@ Una vez que hayas realizado la configuración y los pasos anteriores, podrás ac
 
 ## 🎯 Características
 
-- Añadir tareas con una descripción y fecha de vencimiento.
-- Marcar tareas como completadas.
+- Añadir tareas con un título y una descripción.
 - Editar el contenido de las tareas existentes.
 - Eliminar tareas de la lista.
 
@@ -60,4 +59,4 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido/a! Por favor, crea un pu
 
 ---
 
-¡Gracias por utilizar la Todo List App! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o ponerte en contacto con el equipo de desarrollo. ¡Esperamos que esta aplicación te sea útil y te ayude a ser más productivo/a!
+¡Gracias por utilizar la Todo List App! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o ponerte en contacto conmigo. ¡Espero que esta aplicación te sea útil y te ayude a ser más productivo/a!
